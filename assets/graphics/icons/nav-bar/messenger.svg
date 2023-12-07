@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.163" height="25.827" viewBox="0 0 35.163 25.827">
+    <g id="Composant_11_1" data-name="Composant 11 – 1" transform="translate(0.5 0.5)">
+        <g id="Groupe_370" data-name="Groupe 370" transform="translate(0 0)">
+            <path id="Icon_material-person" data-name="Icon material-person"
+                d="M18.414,18.414a6.207,6.207,0,1,0-6.207-6.207A6.205,6.205,0,0,0,18.414,18.414Zm0,3.1C14.271,21.517,6,23.6,6,30.827H30.827v-3.1C30.827,23.6,22.557,21.517,18.414,21.517Z"
+                transform="translate(3.335 -6)" fill="white" stroke="#1894e9" stroke-width="1" />
+            <path id="Icon_material-person-2" data-name="Icon material-person"
+                d="M18.414,18.414a6.207,6.207,0,1,0-6.207-6.207A6.205,6.205,0,0,0,18.414,18.414Zm0,3.1C14.271,21.517,6,23.6,6,27.724v3.1H30.827v-3.1C30.827,23.6,22.557,21.517,18.414,21.517Z"
+                transform="translate(-6 -6)" fill="white" stroke="#1894e9" stroke-width="1" />
+        </g>
+    </g>
+</svg>

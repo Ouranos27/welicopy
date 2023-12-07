@@ -1,0 +1,52 @@
+class AppCardData {
+  static Map<String, String> propertyType = {
+    '0': 'Appartement',
+    '1': 'Château / manoir',
+    '2': 'Commerce / bureau',
+    '3': 'Ensemble immobilier',
+    '4': 'Garage, box, parking',
+    '5': 'Immeuble',
+    '6': 'Maison',
+    '7': 'Maison avec terrain détachable',
+    '8': 'Maison à rénover',
+    '9': 'Remise / hangar',
+    '10': 'Terrain nu constructible',
+    '11': 'Terrain nu non constructible / de loisirs'
+  };
+  static Map<String, String> investmentType = {
+    '0': 'Achat part d’une SCPi',
+    '1': 'Achat revente rapide',
+    '2': 'Construction',
+    '3': 'Crowdfunding immobilier',
+    '4': 'Déficit foncier',
+    '5': 'Défiscalisation',
+    '6': 'Forêt au vignoble',
+    '7': 'Hôtel',
+    '8': 'LMNP',
+    '9': 'LMP',
+    '10': 'Locatif',
+    '11': 'Location saisonnière',
+    '12': 'Loi Malraux',
+    '13': 'Loi Pinel',
+    '14': 'Lotissement',
+    '15': 'Nue-propriété',
+    '16': 'Promotion',
+    '17': 'Rénovation',
+    '18': 'Résidence de vacances',
+    '19': 'Société immobilière - action',
+    '20': 'Terrain agricole',
+    '21': 'Viager libre',
+    '22': 'Viager occupé',
+  };
+  static Map<String, String> buyerType = {
+    '0': 'Résidence principale',
+    '1': 'Locatif',
+    '2': 'Résidence secondaire',
+    '3': 'Clientèle internationale',
+    '4': 'Primo-accédant',
+    '5': 'Marché local',
+    '6': 'Promoteur',
+    '7': 'Lotisseur',
+    '8': 'Rénovateur',
+  };
+}

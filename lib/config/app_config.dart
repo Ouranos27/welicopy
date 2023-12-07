@@ -1,0 +1,3 @@
+class AppDev {
+  static const firebaseKey = "key=AAAAfR6PTuY:APA91bGf5xtTZatf19foXrZYFArREQLT7Bjp1Y_9bgVrSMEs1qlfQZEBpwg48AtP0uyzWGJjdGF9aVfUGDY4dzqONW2w3g9w0VN4DTx0ktt3u6zHvDCDO_AhybNox0TeanutHDyU21Ja";
+}

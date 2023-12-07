@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "537383620326",
+    "project_id": "weli-prod",
+    "storage_bucket": "weli-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537383620326:android:38e730b5f6cc511860b527",
+        "android_client_info": {
+          "package_name": "com.florentalbero.weli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537383620326-iil6fgc1n59ibcignr4c4lq8h0aenh7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFwJcXOsndj2vapj88oaU8miHTIU4u4yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537383620326-iil6fgc1n59ibcignr4c4lq8h0aenh7g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537383620326-vf7frj8iko8oukvprnit71i7sgns0cm5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.florentalbero.weli"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537383620326:android:e3a34b4eb96b821360b527",
+        "android_client_info": {
+          "package_name": "com.florentalbero.weli1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537383620326-iil6fgc1n59ibcignr4c4lq8h0aenh7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFwJcXOsndj2vapj88oaU8miHTIU4u4yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537383620326-iil6fgc1n59ibcignr4c4lq8h0aenh7g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537383620326-vf7frj8iko8oukvprnit71i7sgns0cm5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.florentalbero.weli"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
